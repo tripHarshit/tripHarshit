@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="(https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tripharshit&label=Profile%20views&color=0e75b6&style=flat" alt="tripharshit" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=tripharshit&label=Profile%20views&color=0e75b6&style=flat" alt="tripharshit" /> </p](https://media.tenor.com/9J-1BsGpP7IAAAAC/android.gif)>
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
